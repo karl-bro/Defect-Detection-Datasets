@@ -7,7 +7,7 @@
  
 - 代码仓库：[Github - vicoslab/mixed-segdec-net-comind2021](https://github.com/vicoslab/mixed-segdec-net-comind2021)
  
-- 论文链接：[Arixv - Mixed supervision for surface-defect detection: from weakly to fully supervised learning](https://arxiv.org/pdf/2104.06064v3)
+- 论文链接：[Arxiv - Mixed supervision for surface-defect detection: from weakly to fully supervised learning](https://arxiv.org/pdf/2104.06064v3)
  
 - 介绍：
   - 包含**399张图片**，其中**52张有可见缺陷**,**347张无缺陷**
@@ -23,7 +23,7 @@
     
   - KSDD2 数据集：[Kolektor Surface-Defect Dataset 2](https://go.vicos.si/kolektorsdd2)
 
-- 论文链接：[Arixv - SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection](https://arxiv.org/pdf/2408.03143v2)
+- 论文链接：[Arxiv - SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection](https://arxiv.org/pdf/2408.03143v2)
 
 - 介绍：
   - 包括**356 张有明显缺陷的图像**,**2979 张无任何缺陷的图像**
@@ -38,7 +38,7 @@
 - **下载链接**:
   - [elpv dataset](https://github.com/zae-bayern/elpv-dataset)
 
-- 论文链接：[Arixv - Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts](https://arxiv.org/pdf/2403.06495v3)
+- 论文链接：[Arxiv - Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts](https://arxiv.org/pdf/2403.06495v3)
 
 - 代码仓库：
   - [mala-lab/inctrl](https://github.com/mala-lab/inctrl)
@@ -58,7 +58,7 @@
     
   - MVTec AD数据集:(https://www.mydrive.ch/shares/38536/3830184030e49fe74747669442f0f282/download/420938113-1629952094/mvtec_anomaly_detection.tar.xz)
  
-- 论文链接：[Arixv - SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection](https://arxiv.org/pdf/2408.03143v2)
+- 论文链接：[Arxiv - SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection](https://arxiv.org/pdf/2408.03143v2)
  
 - 代码仓库：[blaz-r/supersimplenet](https://github.com/blaz-r/supersimplenet)
  
@@ -90,7 +90,7 @@
 - **下载链接**:
   - [DeepPCB](https://github.com/tangsanli5201/DeepPCB)
  
-- 论文链接：[Arixv - Online PCB Defect Detector On A New PCB Defect Dataset](https://arxiv.org/pdf/1902.06197v1.pdf)
+- 论文链接：[Arxiv - Online PCB Defect Detector On A New PCB Defect Dataset](https://arxiv.org/pdf/1902.06197v1.pdf)
 
 - 代码仓库：[tangsanli5201/DeepPCB](https://github.com/tangsanli5201/DeepPCB)
 
