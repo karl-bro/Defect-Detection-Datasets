@@ -37,3 +37,26 @@
   - 论文 [Arixv | Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts](https://arxiv.org/pdf/2403.06495v3.pdf)
   - 代码：[Github | mala-lab/inctrl](https://github.com/mala-lab/inctrl)
   - 关键词：In-context Residual Learning
+ 
+- FastFlow
+
+ - 来源：CVPR
+ - 年份：2021
+ - 论文 [Arixv | FastFlow: Unsupervised Anomaly Detection and Localization via 2D Normalizing Flows](https://arxiv.org/pdf/2111.07677v2.pdf)
+ - 代码：[Github | gathierry/FastFlow](https://github.com/gathierry/FastFlow)
+ - 关键词：2D Normalizing Flows
+
+- CPR
+
+ - 来源：IEEE
+ - 年份：2023
+ - 论文 [Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval](https://arxiv.org/pdf/2308.06748v1.pdf)
+ - 代码：[Github | flyinghu123/cpr](https://github.com/flyinghu123/cpr)
+ - 关键词：Target before Shooting
+
+- TransFusion
+
+ - 来源：ECCV
+ - 年份：2024
+ - 论文：[TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection](https://arxiv.org/pdf/2311.09999v2.pdf)
+ - 代码：[Github | maticfuc/eccv_transfusion](https://github.com/maticfuc/eccv_transfusion)
