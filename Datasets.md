@@ -74,6 +74,24 @@ CVPR 2019
   - **4.9GB**
   - [papers-with-code - mvtecad](https://paperswithcode.com/dataset/mvtecad)
  
+### MVTec 3D-AD
+
+VISAPP 2022
+
+- **下载链接**
+  - [MVTec 3D-AD](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)
+
+- 论文链接：[Arxiv - The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization](https://arxiv.org/pdf/2112.09045v1.pdf)
+
+- 代码仓库：[Github - JerryX1110/Awesome-3D-Anomaly-Detection](https://github.com/JerryX1110/Awesome-3D-Anomaly-Detection)
+
+- 介绍：
+  - 包含由工业 3D 传感器采集的 **4000 多张**高分辨率扫描
+  - 10 个不同对象类别中的每一个都包括一组无缺陷的训练和验证样本，以及一组具有各种缺陷的样本测试
+  - 为每个异常测试样本提供精确的真值注释
+  - **13 GB**
+  - [papers-with-code - mvtec-3d-ad](https://paperswithcode.com/dataset/mvtec-3d-ad)
+ 
 ### DAGM 2007
 
 - **下载链接**
