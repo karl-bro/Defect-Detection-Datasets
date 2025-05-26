@@ -50,9 +50,17 @@
 
  - 来源：IEEE
  - 年份：2023
- - 论文 [Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval](https://arxiv.org/pdf/2308.06748v1.pdf)
+ - 论文 [Arixv | Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval](https://arxiv.org/pdf/2308.06748v1.pdf)
  - 代码：[Github | flyinghu123/cpr](https://github.com/flyinghu123/cpr)
  - 关键词：Target before Shooting
+
+- DiffusionAD
+
+ - 来源：IEEE
+ - 年份：2025
+ - 论文：[Arixv | DiffusionAD: Norm-Guided One-Step Denoising Diffusion for Anomaly Detection](https://arxiv.org/pdf/2303.08730v4)
+ - 代码：[Github | huizhang0812/diffusionad](https://github.com/huizhang0812/diffusionad)
+ - 关键词：One-step Denoising Diffusion
 
 - TransFusion
 
